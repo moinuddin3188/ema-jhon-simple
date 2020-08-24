@@ -1,0 +1,19 @@
+.cart h3, h5 {
+    text-align: center;
+    padding-left: 35px;
+}
+.cart h4 {
+    color: brown;
+}
+.review-order {
+    background-color: goldenrod;
+    border-radius: 5px;
+    border: black;
+    padding: 7px 45px;
+    cursor: pointer;
+}
+.cart table{
+    font-size: 13px;
+    text-align: left;
+    border-spacing: 2px;
+}
